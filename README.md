@@ -55,4 +55,4 @@ A few projects from my GitHub:
 | 🔐 [Password Manager](https://github.com/luisrocha/password-manager) | A self-hosted password management application | Ruby on Rails |
 | 🧩 [Browser Extension](https://github.com/luisrocha/password-manager-extension) | Browser extension for the password manager | JavaScript |
 | 📱 [Mobile App](https://github.com/luisrocha/password-manager-mobile) | Native React password manager application | TypeScript |
-| 🕹️ [Hyper KG](https://hyper-kg.onrender.com/) | A web remake of [Kongai](https://www.kongregate.com/en/games/kongregate/kongai), a turn-based strategy fighting game | TypeScript/React/Fastify |
+| 🕹️ [Hyper KG](https://hyper-kg.com/) | A web remake of [Kongai](https://www.kongregate.com/en/games/kongregate/kongai), a turn-based strategy fighting game | TypeScript/React/Fastify |
